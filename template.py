@@ -22,9 +22,10 @@ list_of_files = [
     "notebooks/research.ipynb",
     "notebooks/data/.gitkeep",
     "requirements.txt",
+    "pyproject.toml",
     "requirements_dev.txt",
     "setup.py",
-    "setup.cfg"
+    "setup.cfg",
     "init_setup.sh",
     "tox.ini",
     "experiment/experiments.ipynb"
